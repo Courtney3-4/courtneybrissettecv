@@ -1,2 +1,4 @@
-.h1{ text-align: center;}
-.background
+h1{ text-align: center; padding-left: 2rem; padding-top: 1rem; font: italic;}
+.body{background-color: grey;}
+.h2{ font-size: 40px;}
+.table-rows{background-color: blue;}
