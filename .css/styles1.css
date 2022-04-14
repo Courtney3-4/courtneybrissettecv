@@ -1,0 +1,4 @@
+.picture{ height: 19rem;}
+.card{ position: static; padding: 10em;}
+.col-3{ align-self: start; row-gap: 80px;}
+.pic{-webkit-animationdirection: normal; size: 10em;}
