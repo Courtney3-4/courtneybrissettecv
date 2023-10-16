@@ -1,0 +1,16 @@
+var data = {
+	"dkey": "xysWgGBo6T79XvMMRJOWTSOvpTUyfTorEThZc44k",
+	"psd_filename": "alphabet-watermarked.psd",
+	"psd_modified": "2023-10-06T10:58:17-07:00",
+	"ss": {
+		"key": "xxxxx",
+		"name": "",
+		"comment": "",
+		"created": "2023-10-06T12:15:20-07:00",
+		"cs": {"id": "xxxxx", "name": "", "comment": ""},
+		"lcs": [
+
+			{ "lcid": 1176490, "thumb": {"w": "421", "h": "533", "path": "1176490_421x533.9AwbCsIA.png"}, "preview": {"w": "449", "h": "568", "path": "1176490_449x568.9AwbCsIA.png"}, "name": "Undefined%20Layer%20Comp%201", "comment": "", "notes": [] }
+		]
+	}
+}
