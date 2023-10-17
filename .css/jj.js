@@ -1,1 +1,2 @@
-$("pic11").addclass("gg");
+$(h1).css("gg");
+$("")

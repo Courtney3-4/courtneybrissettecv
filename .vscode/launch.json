@@ -7,7 +7,7 @@
 
     {
         "name": "Attach to Edge",
-        "port": 9222,
+        "port": "9222",
         "request": "attach",
         "type": "pwa-msedge",
         "webRoot": "${workspaceFolder}"
@@ -15,7 +15,7 @@
         {
             "type": "pwa-msedge",
             "request": "launch",
-            "name": "Open Hobbies.html",
+            "name": "",
             "file": "c:\\Users\\Tr3Ro\\OneDrive\\Documents\\GitHub\\courtneybrissettecv\\index.html"
         }
     ]
