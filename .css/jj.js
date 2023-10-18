@@ -1,3 +1,3 @@
-$(h1)css("gg");
-$("pic")addclass("piture");
-consolelog();;
+$(h1).addclasscss("gg");
+$("pic").addclass("piture");
+consolelog();
