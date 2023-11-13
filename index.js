@@ -1,1 +1,1 @@
-{#bacground}.addclass{#g};
+{#bacground;}.addcss{#g;}

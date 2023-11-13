@@ -1,6 +1,6 @@
 .h1{ text-align: center;}
-#bacground{ background-color: blue;}
+#bacground{color: blue;}
 .pic11{border-radius: 2%; height: 200px; lighting-color: aquamarine;}
 .gg{color: #000;; height: 300px;}
 .picture{ color: #000 bisque; background-image: url(/Images/cor.jpg); height: 300px;}
-#g{background-color: aquamarine; text-shadow: lightblue; size: 45px; margin-right: 1em;}
+g{background-color: aquamarine; text-shadow: lightblue; size: 45px; margin-right: 1em;}
