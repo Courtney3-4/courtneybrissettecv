@@ -1,8 +1,9 @@
-.h1{}
+.h1{font: 1em sans-serif;}
 #g{color: blue; }
 .intro{height: 100px;}
 colleg{background-color: rgb(24, 19, 156);}
 .card-img-top{height: 100px; border: #A6A5AB;}
 .nav-list-item{margin-right: 20px;}
 .pict{height: 300px;}
-#gg{background-color: blue;}
+#gg{color: blue;}
+.btn{color: aliceblue;}
