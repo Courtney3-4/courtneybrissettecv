@@ -1,9 +1,14 @@
+@import url("../../../Unnamed Site 2/styles.css") screen;
 .h1{font: 1em sans-serif;}
-#g{color: blue; }
+#g #bacground{ background-color: hsla(240,87%,26%,1.00) }
 .intro{height: 100px;}
 colleg{background-color: rgb(24, 19, 156);}
-.card-img-top{height: 100px; border: #A6A5AB;}
+.card-img-top{height: 100px; border: #D9D8E8;}
 .nav-list-item{margin-right: 20px;}
 .pict{height: 300px;}
-#gg{color: blue;}
-.btn{color: aliceblue;}
+.form{color: blue;}
+.btn{background-color: #8027C4;}
+#container{background-color: aqua;}
+.o{size: 19em;}
+.h1{align-content: center;}
+#gg{background-color: blue;}

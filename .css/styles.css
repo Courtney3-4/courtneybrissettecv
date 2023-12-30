@@ -1,7 +1,14 @@
 .h1{ text-align: center;}
 
-.colleg{color: blue;}
+.colleg{color: black;}
 #gt{background-color: antiquewhite;}
 
-.pict{ height: 200px;}
-#gg{background-color: blue}
+.pict , .intro{ height: 100px;}
+#gg , #g{color: blanchedalmond;}
+.card{ height: 5em; width:  5em; margin-bottom: 0;
+	 margin-right:2%;
+}.card-deck{align-content: flex-start;}
+ .card-image-top{ height: 5em; width: 2em}
+.card-text{ align-items: center; font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif"; font-size: 1em;} .p{ color: "antiquewhite"; margin-bottom: 15px; }
+.card-title{margin-bottom: 2%;}
+
