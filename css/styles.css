@@ -1,6 +1,6 @@
 @import url("../../../Unnamed Site 2/styles.css") screen;
 .h1{font: 1em sans-serif;}
-#g #bacground{ background-color: hsla(240,87%,26%,1.00) }
+#g , #bacground{ background-color: hsla(240,87%,26%,1.00) }
 .intro{height: 100px;}
 colleg{background-color: rgb(24, 19, 156);}
 .card-img-top{height: 100px; border: #D9D8E8;}
