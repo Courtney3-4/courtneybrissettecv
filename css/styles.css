@@ -4,11 +4,12 @@
 .intro{height: 100px;}
 colleg{background-color: rgb(24, 19, 156);}
 .card-img-top{height: 100px; border: #D9D8E8;}
-.nav-list-item{margin-right: 50px;}
+.nav{margin-right: 50px;}
+.nav-list-item{margin-left: 1em;}
 .pict{height: 200px;}
 .form{color: blue;}
 .btn{background-color: #8027C4;}
-.container{}
+.container{height: 2em;}
 .o{size: 1em;}
 .h1{align-content: center;}
 #gg{background-color: blue;}

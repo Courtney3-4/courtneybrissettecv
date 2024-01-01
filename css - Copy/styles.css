@@ -1,12 +1,12 @@
-.h1{font: 1em sans-serif;}
+.h1{height: 30px;}
 #g{color: blue; }
 .intro{height: 100px;}
 colleg{background-color: rgb(24, 19, 156);}
 .card-img-top{height: 100px; border: #A6A5AB;}
-.nav-list-item{margin-right: 20px;}
+.nav-list-item{margin-right: 100px;}
 #bacground{background-color: cornflowerblue; color: blue; }
 .btn{color: aliceblue;}
-.o{height: 10em; margin-bottom: 2em;}
+.o{height: 10em; margin-bottom: 1em; margin-top: 2em;}
 .form{color: blue;}
 .btn{background-color: #8027C4;}
 .pict{height: 200px;}
