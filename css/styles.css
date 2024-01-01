@@ -10,6 +10,6 @@ colleg{background-color: rgb(24, 19, 156);}
 .form{color: blue;}
 .btn{background-color: #8027C4;}
 .container{height: 2em;}
-.o{size: 1em;}
-.h1{align-content: center;}
+
+.h1{ animation-duration: 5s; text-align: center;}
 #gg{background-color: blue;}
