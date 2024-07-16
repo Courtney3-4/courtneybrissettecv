@@ -1,1 +1,1 @@
-$collog.style.css(.)
+$beatz.style.color(blue)
