@@ -4,7 +4,7 @@
 #gt{background-color: antiquewhite;}
 
 .pict , .intro{ height: 100px;}
-#gg , #g{color: blanchedalmond;}
+#gg , #g{}
 .card{ height: 5em; width:  5em; margin-bottom: 0;
 	 margin-right:2%;
 }.card-deck{align-content: flex-start;}
