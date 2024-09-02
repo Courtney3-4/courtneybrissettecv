@@ -1,6 +1,6 @@
 #g{  font: 22px sans-serif;}
  .intro, .o, .o2{ height: 100px; border-radius: 50% ;}
- .nav-pic{ height: 32px; border-radius: 50%; s;}
+ .nav-pic{ height: 70px; border-radius: 50%; ;}
  .o{}
  .o2{}
  .container{display: flex; gap: 40px;}
